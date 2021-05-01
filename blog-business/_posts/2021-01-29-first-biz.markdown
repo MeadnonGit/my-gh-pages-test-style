@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My first business blog!"
-date:   2021-01-29
+title:  "My second business blog!"
+date:   2021-04-30
 category: Business
 ---
-Welcome to my first business blog
+Welcome to my second business blog
